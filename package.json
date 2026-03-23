@@ -34,7 +34,7 @@
 		"@swc/cli": "0.8.0",
 		"@swc/core": "1.15.21",
 		"@types/express": "5.0.6",
-		"@types/node": "25.3.3",
+		"@types/node": "25.5.0",
 		"globals": "17.4.0",
 		"lefthook": "^2.1.4",
 		"prisma": "7.4.2",
