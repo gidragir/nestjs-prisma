@@ -17,7 +17,7 @@
 		"prepare": "lefthook install && pnpm run format"
 	},
 	"dependencies": {
-		"@nestjs/common": "11.1.15",
+		"@nestjs/common": "11.1.17",
 		"@nestjs/config": "4.0.3",
 		"@nestjs/core": "11.1.17",
 		"@nestjs/platform-express": "11.1.17",
