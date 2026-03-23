@@ -1,6 +1,5 @@
 version: 2
 updates:
-  # Настройка для TypeScript
   - package-ecosystem: 'npm'
     directory: '/'
     schedule:
