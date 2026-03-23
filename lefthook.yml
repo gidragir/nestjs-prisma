@@ -1,0 +1,5 @@
+pre-commit:
+  commands:
+    biome-check:
+      glob: '*.{js,ts,jsx,tsx,json,jsonc}'
+      run: pnpm biome format --write --no-errors-on-unmatched --files-ignore-unknown=true {staged_files} && git add {staged_files}
